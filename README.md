@@ -6,7 +6,6 @@ My machine learning practice for Deep Learing. Every solution here was written b
 
 ![Coverage](./coverage.svg)
 
-[**Browse the interactive portfolio**](https://tatvam-pixel.github.io/deep-ml/) to replay this filling in over time.
 
 ## Problems
 
